@@ -62,6 +62,11 @@ npx prisma generate
 npm start
 ```
 
+6. Start containers:
+```bash
+docker compose up
+```
+
 ## API Endpoints
 
 ### Authentication
