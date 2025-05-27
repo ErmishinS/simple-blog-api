@@ -2,6 +2,10 @@
 
 A RESTful API for a simple blog application built with Node.js, Express, PostgreSQL, and JWT authentication.
 
+## Design-document
+
+[link to design-document](https://docs.google.com/document/d/1lGfYUlrioTa9XHQdZxVgG6gCZRpX7dNuUeH4cZSfTpg/edit?usp=sharing)
+
 ## Features
 
 - User registration and authentication
@@ -197,7 +201,3 @@ simple-blog-api/
 - **Yermishyn Oleksandr** - Team Lead, Backend Developer
 - **Yaroslav Kantur** - Backend Developer, DevOps
 - **Ivanyta Dmytro** - Backend Developer, Testing
-
-## Design-document
-
-[link to design-document](https://docs.google.com/document/d/1lGfYUlrioTa9XHQdZxVgG6gCZRpX7dNuUeH4cZSfTpg/edit?usp=sharing)
